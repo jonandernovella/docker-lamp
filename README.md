@@ -7,7 +7,7 @@ This repository contains a LAMP stack built using Docker
  
 You can start an `Apache Server`, `MariaDB` and `phpMyAdmin` by executing:
 ```bash
-> docker-compose -d up
+> docker-compose up -d
 ```
 The `Apache Server` is reachable on port `80` and `phpMyAdmin` on `8890`.
 
